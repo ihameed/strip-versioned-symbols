@@ -1,0 +1,4 @@
+*.o
+*.obj
+strip-versioned-symbols.tmp
+strip-versioned-symbols
